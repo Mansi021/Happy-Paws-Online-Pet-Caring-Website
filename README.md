@@ -1,6 +1,6 @@
 # Happy-Paws-Online-Pet-Shop-Website
 
-This is a designed social website for the dog lovers who shares a passion for canines and wish to have a cute and little furry friend.
+This is a designed social website for the dog lovers who share a passion for canines and wish to have a cute and little furry friend.
 
 ![This is the front page of the project](https://github.com/Mansi021/Happy-Paws-Online-Pet-Shop-Website/blob/main/New%20folder/Title.png)
 
