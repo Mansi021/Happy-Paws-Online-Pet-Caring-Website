@@ -4,7 +4,7 @@ This is a designed social website for the dog lovers who share a passion for can
 
 ![This is the front page of the project](https://github.com/Mansi021/Happy-Paws-Online-Pet-Shop-Website/blob/main/New%20folder/Title.png)
 
-The desgined website looks refine with good division of the section and it includes a user-friendly layout which is both attractive and responsive as well. 
+The designed website looks refined with good division of the section and it includes a user-friendly layout which is both attractive and responsive as well. 
 
 # The tech-stack used in this project are:
 - **HTML 5** - Page structure and layout has been designed by using HTML
