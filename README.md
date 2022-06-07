@@ -1,6 +1,6 @@
 # Happy-Paws-Online-Pet-Shop-Website
 
-This is a designed social website for the dog lovers who share a passion for canines and wish to connect with the other nearby oxners and their adorable dogs.
+This is a designed social website for the dog lovers who share a passion for canines and wish to connect with the other nearby owners and their adorable dogs.
 
 ![This is the front page of the project](https://github.com/Mansi021/Happy-Paws-Online-Pet-Shop-Website/blob/main/New%20folder/Title.png)
 
